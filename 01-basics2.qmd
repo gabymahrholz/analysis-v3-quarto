@@ -1,5 +1,11 @@
 # Projects, R Markdown, and Data Wrangling
 
+::: {.callout-important}
+
+This week's pair-coding activity mirrors the one from @sec-within (Semester 1). While there is no lab scheduled this week, I wanted to provide an opportunity for you to practice. You can treat this either as a "Challenge Yourself" activity or get together with friends to work through it together.
+
+:::
+
 ## Intended Learning Outcomes {.unnumbered}
 
 By the end of this chapter you should be able to:
